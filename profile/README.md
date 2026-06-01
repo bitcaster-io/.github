@@ -1,4 +1,4 @@
-![Bitcaster](https://www.bitcaster.io/wp-content/uploads/2024/06/flusso.jpg)
+![Bitcaster](https://www.bitcaster.io/images/flusso.jpg)
 
 # Bitcaster
 
